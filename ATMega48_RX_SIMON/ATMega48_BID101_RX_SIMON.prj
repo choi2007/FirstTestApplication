@@ -1,0 +1,60 @@
+[Project ID]
+Signature=UE Proj: v.1
+[Project Information]
+Use Relative Directory=1
+Relative to Project File=1
+Project Start=D907010003000700120017000100000015
+Include Sub Directories=1
+Project Tagfile=
+Project Wordfile=
+Filter=
+Create Tagfile=0
+Working Time=1322
+[Group]
+0=Header
+1=Source
+[Files - Header]
+0=bluecore.h
+1=datatype.h
+2=rc5.h
+3=uart.h
+[Files - Source]
+0=bluecore.c
+1=main.c
+2=rc5.c
+3=uart.c
+[Open Files]
+Open File0=.\main.c
+Open File Pos0=0
+Open File Line0=0
+Open File Window Pos0=0,1,-1,-1,-4,-24,115,115,843,391
+Open File1=.\rc5.c
+Open File Pos1=4192
+Open File Line1=0
+Open File Window Pos1=0,1,-1,-1,-4,-24,0,0,732,280
+Open File2=.\rc5.h
+Open File Pos2=288
+Open File Line2=298
+Open File Window Pos2=0,1,-1,-1,-4,-24,23,23,755,303
+Open File3=.\bluecore.c
+Open File Pos3=0
+Open File Line3=1283
+Open File Window Pos3=0,1,-1,-1,-4,-24,46,46,778,326
+Open File4=.\bluecore.h
+Open File Pos4=231
+Open File Line4=924
+Open File Window Pos4=0,1,-1,-1,-4,-24,92,92,824,372
+Open File5=.\uart.c
+Open File Pos5=1462
+Open File Line5=1381
+Active File Index=5
+Open File Window Pos5=2,3,-1,-1,-4,-24,69,69,801,349
+Open File6=.\uart.h
+Open File Pos6=823
+Open File Line6=823
+Open File Window Pos6=0,1,-1,-1,-4,-24,0,0,732,280
+Open File7=
+Active File Display Mode=3
+[Folders]
+Source=1
+Header=1
